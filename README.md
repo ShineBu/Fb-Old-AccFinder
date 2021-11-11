@@ -7,7 +7,7 @@ You Can Find Old Acc
 >> git clone https://github.com/ShineBu/Fb-Old-AccFinder.git
 >> python3 -m pip install requests bs4
 >> python3 -m pip install mechanize
->> python3 SbFb.py
+>> python3 SbFbtool.py
 ```
 
 # The Programmer Shine Bu Chay
